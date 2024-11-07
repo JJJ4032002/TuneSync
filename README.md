@@ -30,7 +30,7 @@ TuneSync is a versatile, serverless track player that enables users to effortles
 
 TuneSync is currently under early access stage. While some features are operational, others may not be fully functional yet. We encourage you to explore and use the app. If you encounter any issues or find certain aspects counterintuitive, please report them. Your feedback is invaluable and will help prioritize future developments.
 
-## Features
+## Feature
 
 - [x] Listen to audio from local storage
 - [x] Listen to audio from webdav server
